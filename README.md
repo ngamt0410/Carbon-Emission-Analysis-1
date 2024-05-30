@@ -1,5 +1,5 @@
 # Carbon Emission Analysis
-![Photo by Chris LeBoutillier (unsplash.com)](https://github.com/RusAbk/Carbon-Emission-Analysis/blob/main/cover.jpg?raw=true)
+![Photo by Chris LeBoutillier (unsplash.com)](https://github.com/RusAbk/Carbon-Emission-Analysis/blob/main/cover.jpg?raw=true =200%x)
 
 Photo by Chris LeBoutillier (unsplash.com)
 
